@@ -6,4 +6,4 @@ Nuestro trabajo consiste en realizar una clasificación binaria. Decidieremos si
 Algunas cosas interesantes que pueden encontrarse en este proyecto son:
   - Visualización de datos.
   - Extracción de características.
-  - Creación de una peueña red neuronal con la api funcional de Keras.
+  - Creación de una pequeña red neuronal con la api funcional de Keras.
